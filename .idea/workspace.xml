@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88776d84-67be-4611-b1e3-2e955bd75763" name="Changes" comment="">
+    <list default="true" id="88776d84-67be-4611-b1e3-2e955bd75763" name="Changes" comment="Python modules learning">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -98,6 +98,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722965309884</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python modules learning">
+      <option name="closed" value="true" />
+      <created>1723483181922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723483181922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python modules learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python modules learning" />
   </component>
 </project>
