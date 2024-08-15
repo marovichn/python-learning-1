@@ -32,3 +32,25 @@
 #        continue
 
 
+
+#from collections import Counter, defaultdict, OrderedDict
+
+#sentence = "Nikolaaaaa"
+#li = [1, 2, 3, 4, 5, 6, 7]
+#print(Counter(sentence))
+
+from translate import Translator
+
+translator = Translator(to_lang="en", from_lang="es")
+try:
+    with open('test.txt', mode="r") as file:
+        text = file.read()
+        translation = translator.translate(text)
+        print(translation)
+except FileNotFoundError as err:
+    print("Not found")
+    raise err
+
+
+
+
